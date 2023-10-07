@@ -1,2 +1,2 @@
-[![An image of @slashex's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
+[![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 
