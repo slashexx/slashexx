@@ -1,6 +1,6 @@
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to my GitHub Profile! 👋
 - About Me ℹ
 I'm a first-year ISE student currently studying at Dayanand Sagar College of Engineering, currently exploring android and web development, with a solid foundation in Java, HTML and CSS. My goal is to become a skilled software engineer.
 
