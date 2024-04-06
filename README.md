@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub Profile! 👋
 - About Me ℹ <br>
-I'm a first-year ISE student currently studying at Dayanand Sagar College of Engineering, currently exploring android and web development, with a solid foundation in Java, HTML and CSS. My goal is to become a skilled software engineer. <br> <br>
+I'm a first-year ISE student currently studying at Dayanand Sagar College of Engineering, currently exploring android and web development, with a solid foundation in Java, HTML and CSS.<br> <br>
 
 - What You'll Find Here 🚀 <br>
 Projects: Check out my latest projects, from coding exercises to personal projects. <br>
