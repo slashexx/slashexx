@@ -16,8 +16,9 @@ Activities: I enjoy solving coding problems on LeetCode and CodeChef. <br>
 Hobbies: I enjoy listening to instrumental songs and I play video games sometimes~! <br>
 
 - Connect With Me 🌐 <br>
--- [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/dhruvpuri-slashex/) <br>
--- [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](dhruvpuri.35@gmail.com) <br>
+-- <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> <br>
+-- <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="Email"></a>
+
     
 - Let's Collaborate! 🤝 <br>
 Open to collaborations and learning opportunities. Feel free to reach out via email. <br> <br>
