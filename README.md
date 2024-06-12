@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=300&height=40&lines=Dhruv+is+a+programmer;Dhruv+is+a+bathroom+singer;Dhruv+is+an+ML+explorer;Dhruv+is+an+overthinker;Dhruv+is+a+Java+developer;Dhruv+is+a+gamer;Dhruv+is+a+Full-stack+Web+Developer;Dhruv+is+a+DevOps+enthusiast;Dhruv+is+an+ISE+student;Dhruv+is+a+gacha+addict;Dhruv+is+a+daydreamer" alt="Typing SVG" /></a>
+
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 <p align="center">
   <a href="https://skillicons.dev">
