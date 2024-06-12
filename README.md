@@ -18,7 +18,7 @@ Hobbies: I enjoy listening to instrumental songs and I play video games sometime
 
 - Connect With Me 🌐 <br>
 -- <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> <br>
--- <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="Email"></a>
+-- <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a>
 
     
 - Let's Collaborate! 🤝 <br>
