@@ -9,11 +9,10 @@
 <br>
 # Welcome to my GitHub Profile! 👋
 - About Me ℹ <br>
-Hello, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=a+programmer;a+bathroom+singer;an+ML+explorer;an+overthinker;a+Java+developer;a+gamer;a+DevOps+enthusiast;an+ISE+student;a+gacha+addict;a+daydreamer" alt="Typing SVG" /></a> currently studying at Dayanand Sagar College of Engineering, currently exploring android and web development, with a solid foundation in Java, HTML and CSS.<br> <br>
+Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, already experienced in Java and Full-stack web development.<br> <br>
 
 - What You'll Find Here 🚀 <br>
 Projects: Check out my latest projects, from coding exercises to personal projects. <br>
-Skills: Proficient in Java, HTML, CSS. <br>
 Activities: I enjoy solving coding problems on LeetCode and CodeChef. <br>
 Hobbies: I enjoy listening to instrumental songs and I play video games sometimes~! <br>
 
