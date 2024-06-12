@@ -7,7 +7,7 @@
 <br>
 # Welcome to my GitHub Profile! 👋
 - About Me ℹ <br>
-I'm a first-year ISE student currently studying at Dayanand Sagar College of Engineering, currently exploring android and web development, with a solid foundation in Java, HTML and CSS.<br> <br>
+Hello, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=a+programmer;a+bathroom+singer;an+ML+explorer;an+overthinker;a+Java+developer;a+gamer;a+DevOps+enthusiast;an+ISE+student;a+gacha+addict;a+daydreamer" alt="Typing SVG" /></a> currently studying at Dayanand Sagar College of Engineering, currently exploring android and web development, with a solid foundation in Java, HTML and CSS.<br> <br>
 
 - What You'll Find Here 🚀 <br>
 Projects: Check out my latest projects, from coding exercises to personal projects. <br>
