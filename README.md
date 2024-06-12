@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=300&height=40&lines=Dhruv+is+a+programmer;Dhruv+is+a+bathroom+singer;Dhruv+is+an+ML+explorer;Dhruv+is+an+overthinker;Dhruv+is+a+Java+developer;Dhruv+is+a+gamer;Dhruv+is+a+DevOps+enthusiast;Dhruv+is+a+Full-stack+Web+Developer;Dhruv+is+a+gacha+addict;Dhruv+is+a+daydreamer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&center=true&vCenter=true&random=true&width=300&height=40&lines=I'm+a+programmer;I'm+a+bathroom+singer;I'm+an+ML+explorer;I'm+an+overthinker;I'm+a+Java+developer;I'm+a+gamer;I'm+a+DevOps+enthusiast;I'm+a+Web+Developer;I'm+a+gacha+addict;I'm+a+daydreamer;I'm+a+pluviophile;I'm+a+sleepyhead;" alt="Typing SVG" /></a>
 
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 <p align="center">
