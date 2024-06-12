@@ -3,7 +3,12 @@
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,firebase,c,cpp,html,css,bootstrap,git,github,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,firebase,html,css,bootstrap,c,cpp,python" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,linux,mysql" />
   </a>
 </p>
 <br>
