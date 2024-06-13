@@ -14,8 +14,6 @@
 <br>
 
 <h1><strong>Welcome to my GitHub Profile! 👋 </strong> </h1>
-
-<h2><strong>About Me ℹ </strong> </h2><br>
 Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, already experienced in Java and Full-stack web development.<br> <br>
 
 <h2><strong>What You'll Find Here 🚀 </strong> </h2><br>
