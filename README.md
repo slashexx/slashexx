@@ -26,5 +26,5 @@ Hobbies: I enjoy listening to instrumental songs and I play video games sometime
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a>
 
 <h2><strong>Extras</strong></h2>
-- <strong>Codeforces</strong> : 887 <br>
-- <strong>Codechef</strong> : 1403
+- <strong>Codeforces</strong> : (newbie) 887  <br>
+- <strong>Codechef</strong> : (2⭐) 1403 
