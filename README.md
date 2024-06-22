@@ -25,10 +25,11 @@ Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, already experienced in Java an
 
 <h2><strong>Hobbies & Interests 🎮 </strong></h2>
 I enjoy listening to instrumental songs and I play video games sometimes. Here are some of my favorite activities outside of coding:
-- Playing Genshin Impact, Honkai star rail or any other game depending on my mood. 
-- Exploring new music genres.
-- Playing football
-
+<ul> 
+<li> Playing Genshin Impact, Honkai star rail or any other game depending on my mood.</li> 
+<li> Exploring new music genres. </li>
+<li> Playing football.</li>
+</ul>
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> <br>
