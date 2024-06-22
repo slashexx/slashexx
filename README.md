@@ -16,10 +16,11 @@
 <h1><strong>Welcome to my GitHub Profile! 👋 </strong> </h1>
 Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, already experienced in Java and Full-stack web development.<br> <br>
 
-<h2><strong>What You'll Find Here 🚀 </strong> </h2><br>
-Projects: Check out my latest projects, from coding exercises to personal projects. <br>
-Activities: I enjoy solving coding problems on LeetCode and CodeChef. <br>
-Hobbies: I enjoy listening to instrumental songs and I play video games sometimes~! <br>
+<!--<h2><strong>What You'll Find Here 🚀 </strong> </h2><br>-->
+<!-- Projects: Check out my latest projects, from coding exercises to personal projects. <br> -->
+<!-- Activities: I enjoy solving coding problems on LeetCode and CodeChef. <br> -->
+<!-- Hobbies: I enjoy listening to instrumental songs and I play video games sometimes~! <br> -->
+
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> <br>
@@ -30,3 +31,6 @@ Hobbies: I enjoy listening to instrumental songs and I play video games sometime
 Newbie @ <img src="https://img.shields.io/badge/Codeforces-887-blue"> <br>
 2⭐ @ <img alt="Static Badge" src="https://img.shields.io/badge/Codechef-1403-brown">
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
