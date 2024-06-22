@@ -17,7 +17,6 @@
 Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, already experienced in Java and Full-stack web development.<br> <br>
 
 <h2><strong>Projects & Activities 🚀 </strong></h2>
-Check out my latest projects, from coding exercises to personal projects. I enjoy solving coding problems on LeetCode and CodeChef.
 
 **Some of my projects:**
 - [ConnectAble](https://connectable-fe7j.onrender.com): Connectable is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
