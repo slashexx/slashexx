@@ -16,10 +16,19 @@
 <h1><strong>Welcome to my GitHub Profile! 👋 </strong> </h1>
 Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, already experienced in Java and Full-stack web development.<br> <br>
 
-<!--<h2><strong>What You'll Find Here 🚀 </strong> </h2><br>-->
-<!-- Projects: Check out my latest projects, from coding exercises to personal projects. <br> -->
-<!-- Activities: I enjoy solving coding problems on LeetCode and CodeChef. <br> -->
-<!-- Hobbies: I enjoy listening to instrumental songs and I play video games sometimes~! <br> -->
+<h2><strong>Projects & Activities 🚀 </strong></h2>
+Check out my latest projects, from coding exercises to personal projects. I enjoy solving coding problems on LeetCode and CodeChef.
+
+**Some of my projects:**
+- [ConnectAble](https://connectable-fe7j.onrender.com): Connectable is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
+- [Pawsitivity](pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.
+
+
+<h2><strong>Hobbies & Interests 🎮 </strong></h2>
+I enjoy listening to instrumental songs and I play video games sometimes. Here are some of my favorite activities outside of coding:
+- Playing Genshin Impact, Honkai star rail or any other game depending on my mood. 
+- Exploring new music genres.
+- Playing football
 
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
