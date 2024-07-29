@@ -19,8 +19,8 @@ Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, experienced in Java and Full-s
 <h2><strong>Projects & Activities 🚀 </strong></h2>
 
 **Some of my projects:**
-- [ConnectAble](https://connectable-fe7j.onrender.com): Connectable is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
-- [Pawsitivity](pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.
+- [ConnectAble](https://connect-able.onrender.com): Connectable is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
+- [Pawsitivity](https://pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.
 
 
 <h2><strong>Hobbies & Interests 🎮 </strong></h2>
