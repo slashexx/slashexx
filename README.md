@@ -3,7 +3,7 @@
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,react,js,nodejs,express,firebase,html,css,bootstrap,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,nextjs,react,js,nodejs,express,firebase,html,css,bootstrap,c,cpp" />
   </a>
 </p>
 <p align="center">
