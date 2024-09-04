@@ -37,7 +37,7 @@ I enjoy listening to instrumental songs and I play video games sometimes. Here a
 
 
 <h2><strong>Extras</strong></h2> 
-Newbie @ <img src="https://img.shields.io/badge/Codeforces-887-blue"> <br>
+Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue"> <br>
 2⭐ @ <img alt="Static Badge" src="https://img.shields.io/badge/Codechef-1403-brown"><br>
 
 Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; width:auto"/> btw :)
