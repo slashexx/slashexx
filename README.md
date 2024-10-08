@@ -19,7 +19,8 @@ Hello, I'm Dhruv. I'm a DevOps and ML enthusiast, experienced in Java and Full-s
 <h2><strong>Projects & Activities 🚀 </strong></h2>
 
 **Some of my projects:**
-- [ConnectAble](https://connect-able.onrender.com): Connectable is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
+- [KisanSetu](https://kisansetu.onrender.com): KisanSetu is a blockchain-based marketplace connecting farmers directly with buyers, enabling transparent negotiations and secure transactions. It features real-time order updates, cross-chain payment options using ZetaChain, and PDF contract generation for seamless deals.
+- [ConnectAble](https://connect-able.onrender.com): ConnectAble is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
 - [Pawsitivity](https://pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.
 
 
