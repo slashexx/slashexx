@@ -14,12 +14,13 @@
 </p>
 <br>
 
-<h1><strong>Welcome to my GitHub Profile! 👋 </strong> </h1>
-Hello, I'm Dhruv. I'm a DevOps enthusiast, experienced in Java and Full-stack web development.<br> <br>
+<h1><strong>Bonjour ! I'm Dhruv,</strong></h1>
+<p>A DevOps Enthusiast & Full-Stack Developer, I am also experienced in Java. I have hands-on experience with Docker and Kubernetes, and I'm currently expanding my skills by learning Go.</p>
+<p>When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or diving into the world of DevOps practices to build scalable and efficient solutions.</p>
+
 
 <h2><strong>Projects & Activities 🚀 </strong></h2>
 
-**Some of my projects:**
 - [CodeBrewery](https://codebrewery.vercel.app): CodeBrewery is an innovative web application that enables users to write, run, and experiment with code in multiple programming languages, including C, C++, Java, Go, and Python. It features an interactive code editor and real-time output. The project emphasizes a DevOps focus, utilizing Docker and Kubernetes for deployment, along with CI/CD practices to streamline development and ensure consistent delivery.
 - [KisanSetu](https://kisansetu.onrender.com): KisanSetu is a blockchain-based marketplace connecting farmers directly with buyers, enabling transparent negotiations and secure transactions. It features real-time order updates, cross-chain payment options using ZetaChain, and PDF contract generation for seamless deals.
 - [ConnectAble](https://connect-able.onrender.com): ConnectAble is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
@@ -39,9 +40,9 @@ I enjoy listening to instrumental songs and I play video games sometimes. Here a
 
 
 <h2><strong>Extras</strong></h2> 
-Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue"> <br>
-2⭐ @ <img alt="Static Badge" src="https://img.shields.io/badge/Codechef-1414-brown"><br>
+Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue"> 
+2⭐ @ <img alt="Static Badge" src="https://img.shields.io/badge/Codechef-1414-brown">
 
 Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; width:auto"/> btw :)
 
-![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=false)
+![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true)
