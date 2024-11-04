@@ -3,14 +3,14 @@
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 ![](https://komarev.com/ghpvc/?username=slashexx)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,react,js,nodejs,express,html,css,bootstrap,c" />
-  </a>
+<!--   <a href="https://skillicons.dev"> -->
+    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,react,js,nodejs,express,html,css,bootstrap" />
+<!--   </a> -->
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,cpp,python,docker,git,github,linux,mysql" />
-  </a>
+<!--   <a href="https://skillicons.dev"> -->
+    <img src="https://skillicons.dev/icons?i=firebase,c,cpp,python,docker,git,github,linux,mysql" />
+<!--   </a> -->
 </p>
 <br>
 
