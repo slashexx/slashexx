@@ -44,6 +44,9 @@ Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue"> <br>
 
 Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; width:auto"/> btw :)
 
+
+![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=vue-dark&hide_border=true)
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
