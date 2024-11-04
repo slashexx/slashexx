@@ -4,12 +4,12 @@
 ![](https://komarev.com/ghpvc/?username=slashexx)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nextjs,react,ts,js,nodejs,express,html,css,bootstrap,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,react,js,nodejs,express,html,css,bootstrap,c" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,python,docker,git,github,linux,mysql" />
+    <img src="https://skillicons.dev/icons?i=firebase,cpp,python,docker,git,github,linux,mysql" />
   </a>
 </p>
 <br>
