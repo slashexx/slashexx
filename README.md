@@ -12,8 +12,13 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,bootstrap" />
 </p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
 <br>
 
 <h1><strong>Bonjour ! I'm Dhruv,</strong></h1>
