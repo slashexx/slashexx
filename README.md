@@ -1,16 +1,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=40&lines=I'm+a+programmer;I'm+a+bathroom+singer;I'm+an+overthinker;I'm+a+Java+developer;I'm+a+gamer;I'm+a+DevOps+enthusiast;I'm+a+Web+Developer;I'm+a+gacha+addict;I'm+a+daydreamer;I'm+a+pluviophile;I'm+a+sleepyhead;I'm+an+arch+user+btw" alt="Typing SVG" /></a>
 
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
-![](https://komarev.com/ghpvc/?username=slashexx)
+![slashexx's profile views](https://komarev.com/ghpvc/?username=slashexx)
+
 <p align="center">
-<!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,react,js,nodejs,express,html,css,bootstrap" />
-<!--   </a> -->
+    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,docker,kubernetes,jenkins,git,githubactions,linux,react,python,tailwind" />
 </p>
+
 <p align="center">
-<!--   <a href="https://skillicons.dev"> -->
-    <img src="https://skillicons.dev/icons?i=firebase,c,cpp,python,docker,git,github,linux,mysql" />
-<!--   </a> -->
+    <img src="https://skillicons.dev/icons?i=solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,html,css,bootstrap" />
 </p>
 <br>
 
@@ -36,7 +34,8 @@ I enjoy listening to instrumental songs and I play video games sometimes. Here a
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> <br>
-<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a>
+<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> <br>
+<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=discord&logoColor=white" alttext="Email"></a>
 
 
 <h2><strong>Extras</strong></h2> 
