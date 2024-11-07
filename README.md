@@ -4,11 +4,15 @@
 ![slashexx's profile views](https://komarev.com/ghpvc/?username=slashexx)
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,docker,kubernetes,jenkins,git,githubactions,linux,react,python,tailwind" />
+    <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=jenkins,git,githubactions,linux" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=python,tailwind" />
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=github,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,html,css,bootstrap" />
 </p>
 <br>
 
@@ -19,22 +23,22 @@
 
 <h2><strong>Projects & Activities 🚀 </strong></h2>
 
-- [CodeBrewery](https://codebrewery.vercel.app): CodeBrewery is an innovative web application that enables users to write, run, and experiment with code in multiple programming languages, including C, C++, Java, Go, and Python. It features an interactive code editor and real-time output. The project emphasizes a DevOps focus, utilizing Docker and Kubernetes for deployment, along with GitOps and CI/CD practices to streamline development and ensure consistent delivery.
-- [KisanSetu](https://kisansetu.onrender.com): KisanSetu is a blockchain-based marketplace connecting farmers directly with buyers, enabling transparent negotiations and secure transactions. It features real-time order updates, cross-chain payment options using ZetaChain, and PDF contract generation for seamless deals.
-- [ConnectAble](https://connect-able.onrender.com): ConnectAble is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible.
-- [Pawsitivity](https://pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.
+- [CodeBrewery](https://codebrewery.vercel.app): CodeBrewery is an innovative web application that enables users to write, run, and experiment with code in multiple programming languages, including C, C++, Java, Go, and Python. It features an interactive code editor and real-time output. The project emphasizes a DevOps focus, utilizing Docker and Kubernetes for deployment, along with GitOps and CI/CD practices to streamline development and ensure consistent delivery. [<img src="https://skillicons.dev/icons?i=github" width="22px" />](https://github.com/slashexx/codebrewery)
+- [KisanSetu](https://kisansetu.onrender.com): KisanSetu is a blockchain-based marketplace connecting farmers directly with buyers, enabling transparent negotiations and secure transactions. It features real-time order updates, cross-chain payment options using ZetaChain, and PDF contract generation for seamless deals. [<img src="https://skillicons.dev/icons?i=github" width="22px" />](https://github.com/slashexx/kisansetu)
+- [ConnectAble](https://connect-able.onrender.com): ConnectAble is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible. [<img src="https://skillicons.dev/icons?i=github" width="22px" />](https://github.com/slashexx/connectable)
+- [Pawsitivity](https://pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.[<img src="https://skillicons.dev/icons?i=github" width="22px" />](https://github.com/slashexx/mini-project)
 
 <h2><strong>Hobbies & Interests 🎮 </strong></h2>
 I enjoy listening to instrumental songs and I play video games sometimes. Here are some of my favorite activities outside of coding:
-<ul> 
-<li> Playing Genshin Impact, Honkai star rail or any other game depending on my mood.</li> 
-<li> Exploring new music genres. </li>
-<li> Playing football.</li>
+<ul type="none"> 
+<li> 🎮 Playing Genshin Impact, Honkai star rail or any other game depending on my mood</li> 
+<li> 🎵 Exploring new music genres. </li>
+<li> ⚽ Playing football.</li>
 </ul>
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
-<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> <br>
-<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> <br>
+<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> 
+<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> 
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=discord&logoColor=white" alttext="Email"></a>
 
 
@@ -47,3 +51,4 @@ Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; w
 ![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=false)
 
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" /></div>
