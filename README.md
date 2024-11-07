@@ -8,11 +8,11 @@
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" />
     <img src="https://skillicons.dev/icons?i=jenkins,git,githubactions,linux" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=python,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=github,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,html,css,bootstrap" />
 </p>
 <br>
 
