@@ -28,18 +28,17 @@
 - [ConnectAble](https://connect-able.onrender.com): ConnectAble is a web platform aimed at specially-abled individuals, providing a space where they can post about hosting or attending events. It fosters community engagement and inclusivity by making event organization and participation more accessible. [<img src="https://skillicons.dev/icons?i=github" width="22px" />](https://github.com/slashexx/connectable)
 - [Pawsitivity](https://pawsitivity.onrender.com): Pawsitivity is an animal adoption site where people can post about pets that are up for adoption. Others can browse the listings, check out the pets, and directly contact the poster to facilitate the adoption process.[<img src="https://skillicons.dev/icons?i=github" width="22px" />](https://github.com/slashexx/mini-project)
 
-<h2><strong>Hobbies & Interests 🎮 </strong></h2>
+## Hobbies & Interests 🎮 
 I enjoy listening to instrumental songs and I play video games sometimes. Here are some of my favorite activities outside of coding:
-<ul type="none"> 
-<li> 🎮 Playing Genshin Impact, Honkai star rail or any other game depending on my mood</li> 
-<li> 🎵 Exploring new music genres. </li>
-<li> ⚽ Playing football.</li>
-</ul>
+- 🎮 Playing Genshin Impact, Honkai star rail or any other game depending on my mood. 
+- 🎵 Exploring new music genres. 
+- ⚽ Playing football.
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> 
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> 
-<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=discord&logoColor=white" alttext="Email"></a>
+<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alttext="Discord"></a>
+
 
 
 <h2><strong>Extras</strong></h2> 
@@ -51,3 +50,8 @@ Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; w
 ![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
