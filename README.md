@@ -6,13 +6,12 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go" />
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=jenkins,git,githubactions,linux" />
+    <img src="https://skillicons.dev/icons?i=jenkins,git,githubactions,linux,github" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=python,github" />
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,bootstrap" />
 </p>
 <h1><strong>Bonjour ! I'm Dhruv,</strong></h1>
 <p>A DevOps Enthusiast & Full-Stack Developer, I am also experienced in Java. I have hands-on experience with Docker and Kubernetes, and I'm currently expanding my skills by learning Go.</p>
