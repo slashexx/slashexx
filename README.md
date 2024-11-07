@@ -45,4 +45,4 @@ Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue">
 
 Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; width:auto"/> btw :)
 
-![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true)
+![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=false)
