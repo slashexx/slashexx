@@ -18,9 +18,6 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
-
-<br>
-
 <h1><strong>Bonjour ! I'm Dhruv,</strong></h1>
 <p>A DevOps Enthusiast & Full-Stack Developer, I am also experienced in Java. I have hands-on experience with Docker and Kubernetes, and I'm currently expanding my skills by learning Go.</p>
 <p>When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or diving into the world of DevOps practices to build scalable and efficient solutions.</p>
