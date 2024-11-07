@@ -48,7 +48,6 @@ Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue">
 
 Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; width:auto"/> btw :)
 
-![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=false)
+![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true)
 
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="54" height="54" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="54" height="54" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="54" height="54" /></div>
