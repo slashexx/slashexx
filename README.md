@@ -46,4 +46,5 @@ Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; w
 
 ![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true)
 
-
+  ![Snake animation](https://github.com/slashexx/slashexx/blob/output/github-contribution-grid-snake.svg)
+ 
