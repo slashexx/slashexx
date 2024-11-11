@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=40&lines=I'm+a+programmer;I'm+a+bathroom+singer;I'm+an+overthinker;I'm+a+Java+developer;I'm+a+gamer;I'm+a+DevOps+enthusiast;I'm+a+Web+Developer;I'm+a+gacha+addict;I'm+a+daydreamer;I'm+a+pluviophile;I'm+a+sleepyhead;I'm+an+arch+user+btw" alt="Typing SVG" /></a>
-hh
+
 [![My holopin badges. Click to go to my holopin profile](https://holopin.me/slashex)](https://holopin.io/@slashex)
 ![slashexx's profile views](https://komarev.com/ghpvc/?username=slashexx)
 
