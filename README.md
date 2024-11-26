@@ -48,4 +48,5 @@ Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; w
 
 ![](https://github.com/slashexx/slashexx/raw/output/github-contribution-grid-snake.svg)
 
- 
+![slashexx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=python,javascript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact)
+
