@@ -44,9 +44,9 @@ Newbie @ <img src="https://img.shields.io/badge/Codeforces-906-blue">
 
 Also, I use <img src="https://skillicons.dev/icons?i=arch" style="height:20px; width:auto"/> btw :)
 
-![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true)
+![slashexx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=javascript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://github.com/slashexx/slashexx/raw/output/github-contribution-grid-snake.svg)
 
-![slashexx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=javascript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact)
 
