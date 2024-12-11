@@ -15,10 +15,10 @@
 </p>
 <h1><strong>💫 I'm Dhruv,</strong></h1>
 <ul>
-  <li>🔭 DevOps enthusiast and a passionate Full-Stack developer.</li>
-  <li>🌱 Currently learning Rust to expand my skills.</li>
+  <li>🔭 A DevOps enthusiast and a passionate Full-Stack developer.</li>
+  <li>🌱 I'm currently learning Rust to expand my skills.</li>
   <li>👯 Looking to collaborate on Rust, Golang, and DevOps projects.</li>
-  <li>⚙️ Interested in designing scalable systems and solving real-world problems.</li>
+  <li>⚙️ Interested in sleeping, ricing my arch, fixing my post-rice arch and cats.</li>
   <li>⚡ Hobbies: Listening to music and gaming.</li>
 </ul>
 
@@ -29,6 +29,14 @@
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alttext="Discord"></a>
 
 
+<div>
+    <h2><strong>Workspace</strong></h2>
+    <div style="display: flex; gap: 10px; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux Icon" style="height: 54px;">
+        <img src="https://skillicons.dev/icons?i=windows" alt="Windows Icon" style="height: 54px; width: auto;">
+    </div>
+</div>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h2><strong>Extras</strong></h2>
     <div>
@@ -36,14 +44,6 @@
         <img src="https://img.shields.io/badge/Codeforces-906-blue" alt="Codeforces Badge" style="margin-right: 10px;">
          | <span>2⭐ @</span>
         <img src="https://img.shields.io/badge/Codechef-1414-brown" alt="Codechef Badge">
-    </div>
-</div>
-
-<div>
-    <h2><strong>Workspace</strong></h2>
-    <div style="display: flex; gap: 10px; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux Icon" style="height: 20px; width: auto;">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows Icon" style="height: 20px; width: auto;">
     </div>
 </div>
 
