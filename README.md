@@ -15,11 +15,11 @@
 </p>
 <h1><strong>💫 I'm Dhruv,</strong></h1>
 <ul>
-  <li>🔭 A DevOps enthusiast and a passionate Full-Stack developer.</li>
-  <li>🌱 I'm currently learning Rust to expand my skills.</li>
+  <li>🔭 A DevOps enthusiast and a Full-Stack developer.</li>
+  <li>⚙️ I'm currently learning Rust to expand my skills.</li>
   <li>👯 Looking to collaborate on Rust, Golang, and DevOps projects.</li>
-  <li>⚙️ Interested in sleeping, ricing my arch, fixing my post-rice arch and cats.</li>
-  <li>⚡ Hobbies: Listening to music and gaming.</li>
+  <li>🌱 Interested in sleeping, ricing my arch, fixing my post-rice arch and cats.</li>
+  <li>🎵 I listen to music and play games sometimes!</li>
 </ul>
 
 
