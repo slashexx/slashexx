@@ -25,8 +25,8 @@
 
 <h2><strong>Connect With Me 🌐 </strong></h2><br>
 <a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alttext="LinkedIn"></a> 
-<a href="mailto:dhruvpui.35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> 
-<a href="https://www.linkedin.com/in/dhruvpuri-slashex/"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alttext="Discord"></a>
+<a href="mailto:dhruvpuri.35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> 
+<a href="https://discord.com/users/755315712226099300"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" alttext="Discord"></a>
 
 
 <div>
