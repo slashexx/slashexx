@@ -30,7 +30,7 @@
 
 
 <div>
-    <h2><strong>Workspace</strong></h2>
+    <h2><strong>Workspace 💻: </strong></h2>
     <div style="display: flex; gap: 10px; align-items: center;">
         <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux Icon" style="height: 54px;">
         <img src="https://skillicons.dev/icons?i=windows" alt="Windows Icon" style="height: 54px; width: auto;">
@@ -38,7 +38,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h2><strong>Extras</strong></h2>
+    <h2><strong>Stats 📊 :</strong></h2>
     <div>
         <span>Newbie @</span>
         <img src="https://img.shields.io/badge/Codeforces-906-blue" alt="Codeforces Badge" style="margin-right: 10px;">
@@ -53,6 +53,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=javascript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact" width="323" />
 </div>
 
-![](https://github.com/slashexx/slashexx/raw/output/github-contribution-grid-snake.svg)
 
 
