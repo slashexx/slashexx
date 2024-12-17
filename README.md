@@ -49,7 +49,7 @@
 <br>
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true" width="450" alt="streak and contributions"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=javascript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact" width="323" />
 </div>
 
