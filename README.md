@@ -5,8 +5,10 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,docker" />
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=jenkins,rust,git,githubactions,linux,github" />
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=jenkins" />
+    <img src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" width="48" height="48">
+    <img src="https://skillicons.dev/icons?i=git,githubactions,linux,github" />
 </p>
 
 <p align="center">
