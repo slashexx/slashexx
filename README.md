@@ -6,11 +6,11 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,nextjs,ts,go,docker" />
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="54" height="54" />
-    <img src="https://skillicons.dev/icons?i=jenkins,git,githubactions,linux,github" />
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
+    <img src="https://skillicons.dev/icons?i=jenkins,rust,git,githubactions,linux,github" />
 </p>
 
 <p align="center">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" />
     <img src="https://skillicons.dev/icons?i=python,tailwind,solidity,flask,js,nodejs,express,firebase,jest,c,cpp,mysql,bootstrap" />
 </p>
 <h1><strong>💫 I'm Dhruv,</strong></h1>
