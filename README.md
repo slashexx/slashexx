@@ -30,7 +30,10 @@
 <a href="mailto:dhruvpuri.35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alttext="Email"></a> 
 <a href="https://discord.com/users/755315712226099300"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alttext="Discord"></a>
 
-
+<h2> Blog 📝 </h2>
+<ul>
+    <li><a href="https://blog.pointblank.club/beaches-to-blockchain-a-story-of-winning-nitk-2/">Hackverse Unplugged: From Beaches to Blockchain Victory!</a></li>
+</ul>
 <div>
     <h2><strong>Workspace 💻: </strong></h2>
     <div style="display: flex; gap: 10px; align-items: center;">
