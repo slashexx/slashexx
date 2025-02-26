@@ -18,10 +18,8 @@
 <h1><strong>💫 I'm Dhruv,</strong></h1>
 <ul>
   <li>🔭 A DevOps enthusiast and a backend developer.</li>
-  <li>⚙️ I'm currently learning Rust to expand my skills.</li>
   <li>👯 Looking to collaborate on Rust, Golang, and DevOps projects.</li>
   <li>🌱 Interested in sleeping, ricing my arch, fixing my post-rice arch and cats.</li>
-  <li>🎵 I listen to music and play games sometimes!</li>
 </ul>
 
 
@@ -34,13 +32,6 @@
 <ul>
     <li><a href="https://blog.pointblank.club/beaches-to-blockchain-a-story-of-winning-nitk-2/">Hackverse Unplugged: From Beaches to Blockchain Victory!🏆</a></li>
 </ul>
-<div>
-    <h2><strong>Workspace 💻: </strong></h2>
-    <div style="display: flex; gap: 10px; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux Icon" style="height: 54px;">
-        <img src="https://skillicons.dev/icons?i=windows" alt="Windows Icon" style="height: 54px; width: auto;">
-    </div>
-</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h2><strong>Stats 📊 :</strong></h2>
@@ -55,7 +46,7 @@
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=slashexx&theme=midnight-purple&hide_border=true" width="450" alt="streak and contributions"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=javascript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact" width="323" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slashexx&theme=midnight-purple&hide=javascript,typescript,html,css,ejs,tex&show_icons=true&hide_border=true&layout=compact" width="323" />
 </div>
 
 
